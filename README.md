@@ -1,0 +1,2 @@
+# testnet22
+cryptoo
